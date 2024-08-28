@@ -1,4 +1,4 @@
-# Weather Api Assignment  
+# Weather Api Asignment  
 
 
   http://api.openweathermap.org/data/2.5/weather?zip=92618&appid=d9d6b642ca88454a3396830792d4b9a7
