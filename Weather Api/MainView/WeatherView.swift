@@ -47,8 +47,6 @@ struct WeatherView: View {
                 .padding(.top)
             }
           
-//            .navigationBarTitleDisplayMode(.inline)
-//            .navigationTitle("Current Weather")
         }
     }
 }
